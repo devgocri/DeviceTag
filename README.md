@@ -1,3 +1,6 @@
+[![](https://poggit.pmmp.io/shield.state/DeviceTag)](https://poggit.pmmp.io/p/DeviceTag)
+[![](https://poggit.pmmp.io/shield.api/DeviceTag)](https://poggit.pmmp.io/p/DeviceTag)
+
 # DeviceTag
 Adds your device name in your nametag
 
