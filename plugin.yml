@@ -1,0 +1,5 @@
+name: DeviceTag
+main: devgocri\DeviceTag\Main
+author: devgocri
+api: 4.0.0
+version: 1.0.0
